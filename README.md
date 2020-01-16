@@ -1,5 +1,5 @@
 These scripts illustrate the implementation of a strategy based on feedback 
-linearization for the control of the sit-to-stand movement of a minimally 
+linearization for the control of the sit-to-stand (STS) movement of a minimally 
 actuated powered lower limb orthosis (PLLO) at the hips. 
 
 The complete algorithm is published in:
