@@ -1,6 +1,6 @@
-These scripts illustrate the implementation of a strategy based on feedback 
-linearization for the control of the sit-to-stand (STS) movement of a minimally 
-actuated powered lower limb orthosis (PLLO) at the hips. 
+# Motion planning for the sit-to-stand movement of Powered Lower Limb Orthoses (PLLOs)
+The motion planning strategy relies on a transformation that maps the desired trajectory for the Center of Mass (CoM) of the system into reference trajectories in the space of the angular positions of the links of a three-link planar robot. The resulting sit-to-stand movement is illustrated with the implementation of a tracking controller based on feedback 
+linearization, and control allocation.
 
 The complete algorithm is published in:
 
